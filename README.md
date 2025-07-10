@@ -67,3 +67,5 @@ Overall, the task demonstrates practical application of core frontend technologi
 ---
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1e9bf491-eed5-4306-a65d-4c2d497f7251)
