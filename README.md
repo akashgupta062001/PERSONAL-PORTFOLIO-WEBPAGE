@@ -7,7 +7,7 @@
 - **Company:** CodTech IT Solutions  
 - **Name:** Akash Gupta  
 - **Intern ID:** CT04DG1423  
-- **Domain:** Full Stack Development  
+- **Domain:** Frontend Web Development  
 - **Duration:** 4 Weeks  
 - **Mentor:** Neela Santosh
 
